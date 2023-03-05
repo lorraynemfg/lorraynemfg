@@ -33,6 +33,8 @@
             <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
              <img height="60em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
             <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+             <img height="60em" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogospng.org%2Flogo-figma%2F&psig=AOvVaw3g79NeiYqTMCfC9NFs6uR1&ust=1678136783031000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCFguzYxf0CFQAAAAAdAAAAABAD)" />
+ 
             
 </div>
 
